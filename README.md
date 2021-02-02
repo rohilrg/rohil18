@@ -1,4 +1,4 @@
-### Hi there, I'm Allwyn 👋
+### Hi there, 👋
 
 <a href="https://www.linkedin.com/in/allwyn-joseph/">
   <img align="left" alt="Allwyn Joseph | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
@@ -27,17 +27,7 @@ Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris.
   
   
 <p align="left">
-<a href="https://github.com/allwyn12?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=allwyn12&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
+
+[![Allwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=allwyn12)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-<!--- 	</p>
-  if you have forked this to use on your profile, 	
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 	<p align="left"> 
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
