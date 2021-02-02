@@ -28,6 +28,6 @@ Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris.
   
 <p align="left">
 
-[![Allwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=allwyn12)](https://github.com/anuraghazra/github-readme-stats)
+[![Allwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajoseph12)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
