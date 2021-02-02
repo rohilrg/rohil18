@@ -27,7 +27,7 @@ Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris.
   
   
 <p align="left">
-<a href="https://github.com/allwyn12?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=allwyn12d&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
+<a href="https://github.com/allwyn12?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=allwyn12&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
 
 </p>
 <!--- 	</p>
