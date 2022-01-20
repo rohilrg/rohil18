@@ -11,6 +11,8 @@
 <br />
 <br />
 
+Hi I am Rohil Gupta, a Machine Learning Engineer based in Paris.
+
 **Languages and Tools:**  
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
@@ -21,6 +23,6 @@
   
 <p align="left">
 
-[![Allwyn's stats](https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true)](https://github.com/rohilrg/github-readme-stats)
+[![Rohil's stats](https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true)](https://github.com/rohilrg/github-readme-stats)
 
 </p>
