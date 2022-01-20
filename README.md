@@ -16,7 +16,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="hhttps://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="40" height="40"/>
   
   
 <p align="left">
