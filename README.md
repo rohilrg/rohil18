@@ -26,7 +26,7 @@ Hi I am Rohil Gupta, a Machine Learning Engineer based in Paris.
 
 <p align="left">
 
-  | <a href="https://github.com/rohilrg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true" alt="Rohil's github stats" /></a> | <a href="https://github.com/rohilrg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohilrg&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/rohilrg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true" alt="Rohil's github stats" /></a> | <a href="https://github.com/rohilrg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohilrg" /></a> |
 | ------------- | ------------- |
 
 
