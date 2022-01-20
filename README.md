@@ -21,6 +21,6 @@
   
 <p align="left">
 
-[![Allwyn's stats](https://github-readme-stats.vercel.app/api?username=ajoseph12&count_private=true&show_icons=true)](https://github.com/ajoseph21/github-readme-stats)
+[![Allwyn's stats](https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true)](https://github.com/rohilrg/github-readme-stats)
 
 </p>
