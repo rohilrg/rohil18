@@ -28,4 +28,5 @@ Hi I am Rohil Gupta, a Machine Learning Engineer based in Paris.
 
 [![Rohil's stats](https://github-readme-stats.vercel.app/api?username=rohilrg&count_private=true&show_icons=true)](https://github.com/rohilrg/github-readme-stats)
 
+[![Rohil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohilrg)](https://github.com/anuraghazra/github-readme-stats)
 </p>
