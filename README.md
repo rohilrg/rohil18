@@ -11,9 +11,9 @@
 <br />
 <br />
 
-Hi I am Rohil Gupta, a Machine Learning Engineer based in Paris.
+Rohil Gupta is my nam. Machine Learning Engineer is my profession and I am cruising my life in Paris.
 
-**Languages and Tools:**  
+**Some Languages and Tools I am good at :**  
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
