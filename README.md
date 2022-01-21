@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Rohil Gupta is my name. Machine Learning Engineer is my profession and I am cruising my life in Paris.
+Rohil Gupta is my name. Machine Learning Engineer is my profession and I am cruising my life in Paris as of now.
 
 **Some Languages and Tools I am good at :**  
 <p align="left">
