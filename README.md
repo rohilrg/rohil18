@@ -1,10 +1,10 @@
 ### Bonjour, 👋
 
 <a href="https://www.linkedin.com/in/rohil-gupta/">
-  <img align="left" alt="Rohil GUPTA | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img align="left" alt="Rohil GUPTA | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://twitter.com/rohilgupta">
-  <img align="left" alt="Rohil Gupta | Twitter" width="21px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="left" alt="Rohil Gupta | Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 
 
