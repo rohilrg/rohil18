@@ -33,7 +33,7 @@
 
 </td><td valign="top" width="33%">
 
-
+</td></tr>
 
 ### Frameworks  
 <div align="center">  
@@ -49,7 +49,7 @@
 
 
 
-</td></tr></table>  
+</table>  
 
 <br/>  
 
