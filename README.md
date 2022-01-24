@@ -55,7 +55,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas.svg" alt="tensorflow" width="90" height="40"/>
-<img src="https://worldvectorlogo.com/download/google-cloud-pub-sub-logo.svg" alt="tensorflow" width="90" height="40"/>
+<img src="https://cdn.cdnlogo.com/logos/g/76/google-cloud-pub-sub.svg" alt="google-pub-sub" width="90" height="40"/>
 
 </div>  
 
