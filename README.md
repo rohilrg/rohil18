@@ -41,6 +41,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicron" height="50" /> 
+
 </div>
   
 </td><td valign="top" width="33%">
