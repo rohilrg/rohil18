@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Machine Learning Engineer is my profession and I am cruising my life in Paris as of now.</div>  
+### <div align="center">Machine Learning Engineer professional cruising life in Paris as of now.</div>  
   
 
 <br/>  
